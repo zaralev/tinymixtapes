@@ -1,0 +1,26 @@
+CACHE MANIFEST
+# version - 1.0
+
+CACHE:
+
+# CSS
+style.css
+
+# IMAGES
+homepage-w.png
+homepage-t.png
+homepage-m.png
+article-w.png
+article-t.png
+article-m.png
+
+# HTML FILES
+index.html
+article.html
+
+# JAVASCRIPT - SPECIFIC ORDER
+js-refresh-manifest.js
+
+## Any resources not listed above will require the user to be online.
+NETWORK:
+*
