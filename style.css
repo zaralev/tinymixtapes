@@ -91,3 +91,10 @@ img {
         display: none;
     }
 }
+
+#fixed {
+  position:fixed;
+  top:0;
+  left:0;
+  max-width:100%;
+}
